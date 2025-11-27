@@ -72,7 +72,7 @@ npm run dev
 
 Backend will run at:
 
-http://localhost:5000
+http://localhost:8000
 
 📁 Frontend Setup
 6️⃣ Move to frontend folder
@@ -85,7 +85,7 @@ npm install
 
 Create frontend/.env:
 
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://localhost:8000
 
 9️⃣ Start Frontend
 npm run dev
